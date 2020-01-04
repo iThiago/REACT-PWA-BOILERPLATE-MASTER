@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.5fb5b904c0690ed5ef5e7a3d4734323f.js"
+  "/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.64d551a604dc33503cedab95fbda6a79.js"
 );
 
 self.addEventListener('message', (event) => {
