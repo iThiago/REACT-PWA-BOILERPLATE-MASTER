@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/REACT-PWA-BOILERPLATE-MASTER/static/css/main.04cf1866.chunk.css",
-    "main.js": "/REACT-PWA-BOILERPLATE-MASTER/static/js/main.56bc031b.chunk.js",
-    "main.js.map": "/REACT-PWA-BOILERPLATE-MASTER/static/js/main.56bc031b.chunk.js.map",
+    "main.js": "/REACT-PWA-BOILERPLATE-MASTER/static/js/main.05c21e77.chunk.js",
+    "main.js.map": "/REACT-PWA-BOILERPLATE-MASTER/static/js/main.05c21e77.chunk.js.map",
     "runtime-main.js": "/REACT-PWA-BOILERPLATE-MASTER/static/js/runtime-main.e054d7a4.js",
     "runtime-main.js.map": "/REACT-PWA-BOILERPLATE-MASTER/static/js/runtime-main.e054d7a4.js.map",
-    "static/js/2.3e72ad30.chunk.js": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.3e72ad30.chunk.js",
-    "static/js/2.3e72ad30.chunk.js.map": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.3e72ad30.chunk.js.map",
+    "static/js/2.e164fd0e.chunk.js": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.e164fd0e.chunk.js",
+    "static/js/2.e164fd0e.chunk.js.map": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.e164fd0e.chunk.js.map",
     "customServiceWorker.js": "/REACT-PWA-BOILERPLATE-MASTER/customServiceWorker.js",
     "index.html": "/REACT-PWA-BOILERPLATE-MASTER/index.html",
-    "precache-manifest.c342a33377fe11957832b557f84f8a06.js": "/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.c342a33377fe11957832b557f84f8a06.js",
-    "precache-manifest.e62ac8968a58eb800ea9e0a5c1913272.js": "/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.e62ac8968a58eb800ea9e0a5c1913272.js",
+    "precache-manifest.9490b879ca2d2b82152da58408ab8991.js": "/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.9490b879ca2d2b82152da58408ab8991.js",
+    "precache-manifest.f1a493a9f6d9542dd2c87ad026d290fc.js": "/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.f1a493a9f6d9542dd2c87ad026d290fc.js",
     "service-worker.js": "/REACT-PWA-BOILERPLATE-MASTER/service-worker.js",
     "static/css/main.04cf1866.chunk.css.map": "/REACT-PWA-BOILERPLATE-MASTER/static/css/main.04cf1866.chunk.css.map",
-    "static/js/2.3e72ad30.chunk.js.LICENSE": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.3e72ad30.chunk.js.LICENSE"
+    "static/js/2.e164fd0e.chunk.js.LICENSE": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.e164fd0e.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e054d7a4.js",
-    "static/js/2.3e72ad30.chunk.js",
+    "static/js/2.e164fd0e.chunk.js",
     "static/css/main.04cf1866.chunk.css",
-    "static/js/main.56bc031b.chunk.js"
+    "static/js/main.05c21e77.chunk.js"
   ]
 }

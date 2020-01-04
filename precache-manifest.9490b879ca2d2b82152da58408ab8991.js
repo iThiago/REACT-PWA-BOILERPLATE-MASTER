@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35d6b616a91fa1979f312bddac2fd1f6",
+    "revision": "f24f22b54e8a2bdaf669095e921f5e97",
     "url": "/REACT-PWA-BOILERPLATE-MASTER/index.html"
   },
   {
-    "revision": "15cd4a59d40bfd78e183",
+    "revision": "eae6c6785a99d3067252",
     "url": "/REACT-PWA-BOILERPLATE-MASTER/static/css/main.04cf1866.chunk.css"
   },
   {
-    "revision": "6fb39670c430fe48f0ab",
-    "url": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.3e72ad30.chunk.js"
+    "revision": "761f59d607a323a2c0ca",
+    "url": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.e164fd0e.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.3e72ad30.chunk.js.LICENSE"
+    "url": "/REACT-PWA-BOILERPLATE-MASTER/static/js/2.e164fd0e.chunk.js.LICENSE"
   },
   {
-    "revision": "15cd4a59d40bfd78e183",
-    "url": "/REACT-PWA-BOILERPLATE-MASTER/static/js/main.56bc031b.chunk.js"
+    "revision": "eae6c6785a99d3067252",
+    "url": "/REACT-PWA-BOILERPLATE-MASTER/static/js/main.05c21e77.chunk.js"
   },
   {
     "revision": "ae0e60ec4f4a3b50f64d",

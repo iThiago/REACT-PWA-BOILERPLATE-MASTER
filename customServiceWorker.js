@@ -1,4 +1,4 @@
-importScripts("/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.e62ac8968a58eb800ea9e0a5c1913272.js", "/REACT-PWA-BOILERPLATE-MASTER/workbox-v4.3.1/workbox-sw.js");
+importScripts("/REACT-PWA-BOILERPLATE-MASTER/precache-manifest.f1a493a9f6d9542dd2c87ad026d290fc.js", "/REACT-PWA-BOILERPLATE-MASTER/workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/REACT-PWA-BOILERPLATE-MASTER/workbox-v4.3.1"});
 // See https://developers.google.com/web/tools/workbox/guides/configure-workbox
 // workbox.core.setLogLevel(workbox.core.LOG_LEVELS.debug);
